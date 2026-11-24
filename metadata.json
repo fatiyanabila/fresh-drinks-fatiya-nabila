@@ -1,0 +1,6 @@
+{
+  "name": "Fresh Drinks",
+  "description": "Toko online UMKM minuman segar Fresh Drinks — Milk Tea, Kopi Susu, Matcha, Jus Buah, Smoothies, dan Minuman Kekinian dengan pemesanan WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
